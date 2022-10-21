@@ -51,4 +51,4 @@ public class Latihan1person {
 
 <p> Maka hasil outputnya adalah<p>
 
-![gambar 2](screenshot/gambar2.PNG)
+![gambar 2](screenshot/gambar2.png)
